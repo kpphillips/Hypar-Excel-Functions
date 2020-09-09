@@ -3,8 +3,8 @@ Hypar Functions Created with Excel
 
 ## 1. Electrical Service Demand Calculation
 
-![alt text](https://user-images.githubusercontent.com/524831/81629788-a12cd180-93c9-11ea-9dda-a53aa1db9ab3.png
+![alt text](https://user-images.githubusercontent.com/524831/92647334-55256700-f2ad-11ea-8db0-6e6ac7ebe739.png
  "Electrical Service Demand Calculation")
  
- ![alt text](https://user-images.githubusercontent.com/524831/81630380-0c2ad800-93cb-11ea-8017-e4746f7ff798.png
+ ![alt text](https://user-images.githubusercontent.com/524831/92647541-a6cdf180-f2ad-11ea-9e6a-9a00e52daba0.png
  "Electrical Service Demand Calculation")
